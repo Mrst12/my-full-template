@@ -24,3 +24,4 @@ Information for each technology was linked to a wikipedia page.
 
 ## Deployment
 This project was deployed using google pages, which was walked through via code institute.
+You can view page [here](https://mrst12.github.io/my-full-template/)
