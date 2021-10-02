@@ -5,7 +5,7 @@ Welcome! [Code institute](https://codeinstitute.net)
 ## Learning to use cards
 
 The first page of this project was a walkthrough project, displaying cards with an image, and clickable link,to show the technologies we were going to use in the course.
-The first two examples of images and clickable links were walked through, and how to navigate throught he different pages. Stream-two and stream-three were done by myself.
+The first two examples of images and clickable links were walked through, and how to navigate through the different pages. Stream-two and stream-three were done by myself.
 
 ## Technologies used
 HTML and CSS
